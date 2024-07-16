@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 /**
  * Супер много костылей, но для меня эта первая задача, раннее решал задачи сугубо те которые были в книгах,
- * а тут  прямо эффект вау, при этом было супер интересно и супер позновательно
  */
 public class Main {
     public static String calc(String input) throws Exception {
